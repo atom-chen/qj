@@ -1,0 +1,76 @@
+
+chaju.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beizi
+  rotate: false
+  xy: 2, 2
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+chahu
+  rotate: false
+  xy: 2, 44
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+shui1/shui__00000
+  rotate: false
+  xy: 89, 94
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+shui1/shui__00001
+  rotate: false
+  xy: 45, 10
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+shui1/shui__00002
+  rotate: false
+  xy: 89, 60
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+shui1/shui__00003
+  rotate: false
+  xy: 107, 94
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+shuibowen2/shuibowen__00000
+  rotate: false
+  xy: 107, 79
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+shuibowen2/shuibowen__00001
+  rotate: false
+  xy: 107, 64
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+shuibowen2/shuibowen__00002
+  rotate: false
+  xy: 107, 49
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+shuibowen2/shuibowen__00003
+  rotate: false
+  xy: 63, 29
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1

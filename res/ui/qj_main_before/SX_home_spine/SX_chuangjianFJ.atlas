@@ -1,0 +1,125 @@
+
+SX_chuangjianFJ.png
+size: 308,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/dianguang
+  rotate: false
+  xy: 168, 58
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+image/faguangniao1
+  rotate: false
+  xy: 2, 36
+  size: 71, 42
+  orig: 71, 42
+  offset: 0, 0
+  index: -1
+image/faguangniao2
+  rotate: true
+  xy: 273, 173
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+image/meihua1
+  rotate: false
+  xy: 75, 49
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+image/meihua10
+  rotate: false
+  xy: 110, 62
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+image/meihua2
+  rotate: false
+  xy: 145, 58
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+image/meihua3
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+image/meihua4
+  rotate: false
+  xy: 75, 36
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+image/meihua5
+  rotate: false
+  xy: 36, 9
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+image/meihua6
+  rotate: false
+  xy: 273, 144
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+image/meihua7
+  rotate: false
+  xy: 242, 105
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+image/meihua8
+  rotate: true
+  xy: 273, 132
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+image/meihua8_1
+  rotate: true
+  xy: 204, 84
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+image/meihua9
+  rotate: false
+  xy: 204, 96
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+image/yoiubianshucha
+  rotate: false
+  xy: 2, 217
+  size: 304, 89
+  orig: 304, 89
+  offset: 0, 0
+  index: -1
+image/zjianshucha
+  rotate: false
+  xy: 2, 80
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+image/zuobianshucha
+  rotate: false
+  xy: 2, 132
+  size: 269, 83
+  orig: 269, 83
+  offset: 0, 0
+  index: -1

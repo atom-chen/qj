@@ -1,0 +1,97 @@
+
+huojian.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huojian
+  rotate: false
+  xy: 2, 136
+  size: 110, 362
+  orig: 110, 362
+  offset: 0, 0
+  index: -1
+huojianTX/huojian__00000
+  rotate: false
+  xy: 114, 334
+  size: 188, 164
+  orig: 188, 164
+  offset: 0, 0
+  index: -1
+huojianTX/huojian__00001
+  rotate: false
+  xy: 114, 168
+  size: 188, 164
+  orig: 188, 164
+  offset: 0, 0
+  index: -1
+huojianTX/huojian__00002
+  rotate: false
+  xy: 304, 334
+  size: 188, 164
+  orig: 188, 164
+  offset: 0, 0
+  index: -1
+huojianTX/huojian__00003
+  rotate: false
+  xy: 304, 168
+  size: 188, 164
+  orig: 188, 164
+  offset: 0, 0
+  index: -1
+huojianTX/huojian__00004
+  rotate: false
+  xy: 494, 334
+  size: 188, 164
+  orig: 188, 164
+  offset: 0, 0
+  index: -1
+huojianTX/huojian__00005
+  rotate: false
+  xy: 494, 168
+  size: 188, 164
+  orig: 188, 164
+  offset: 0, 0
+  index: -1
+huojianTX/huojian__00006
+  rotate: false
+  xy: 684, 334
+  size: 188, 164
+  orig: 188, 164
+  offset: 0, 0
+  index: -1
+huojianTX/huojian__00007
+  rotate: false
+  xy: 684, 168
+  size: 188, 164
+  orig: 188, 164
+  offset: 0, 0
+  index: -1
+huojianTX/huojian__00008
+  rotate: false
+  xy: 114, 2
+  size: 188, 164
+  orig: 188, 164
+  offset: 0, 0
+  index: -1
+huojianTX/huojian__00009
+  rotate: false
+  xy: 304, 2
+  size: 188, 164
+  orig: 188, 164
+  offset: 0, 0
+  index: -1
+huojianTX/huojian__00010
+  rotate: false
+  xy: 494, 2
+  size: 188, 164
+  orig: 188, 164
+  offset: 0, 0
+  index: -1
+huomiao
+  rotate: false
+  xy: 874, 380
+  size: 57, 118
+  orig: 57, 118
+  offset: 0, 0
+  index: -1

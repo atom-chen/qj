@@ -1,0 +1,90 @@
+
+zhadan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/baozha__00000
+  rotate: false
+  xy: 2, 304
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+baozha/baozha__00001
+  rotate: false
+  xy: 2, 153
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+baozha/baozha__00002
+  rotate: false
+  xy: 153, 304
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+baozha/baozha__00003
+  rotate: false
+  xy: 2, 2
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+baozha/baozha__00004
+  rotate: false
+  xy: 153, 153
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+baozha/baozha__00005
+  rotate: false
+  xy: 304, 304
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+baozha/baozha__00006
+  rotate: false
+  xy: 153, 2
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+baozha/baozha__00007
+  rotate: false
+  xy: 304, 153
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+baozha/baozha__00008
+  rotate: false
+  xy: 455, 304
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+baozha/baozha__00009
+  rotate: false
+  xy: 304, 2
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+baozha/baozha__00010
+  rotate: false
+  xy: 455, 153
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+zhadan
+  rotate: false
+  xy: 606, 314
+  size: 100, 139
+  orig: 100, 139
+  offset: 0, 0
+  index: -1

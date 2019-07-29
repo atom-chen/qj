@@ -1,0 +1,153 @@
+
+liandui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liandui
+  rotate: false
+  xy: 506, 266
+  size: 213, 100
+  orig: 213, 100
+  offset: 0, 0
+  index: -1
+liandui_xu
+  rotate: false
+  xy: 254, 145
+  size: 235, 99
+  orig: 235, 99
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_00
+  rotate: false
+  xy: 2, 734
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_01
+  rotate: false
+  xy: 2, 612
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_02
+  rotate: false
+  xy: 254, 734
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_03
+  rotate: false
+  xy: 2, 490
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_04
+  rotate: false
+  xy: 254, 612
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_05
+  rotate: false
+  xy: 506, 734
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_06
+  rotate: false
+  xy: 2, 368
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_07
+  rotate: false
+  xy: 254, 490
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_08
+  rotate: false
+  xy: 506, 612
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_09
+  rotate: false
+  xy: 758, 734
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_10
+  rotate: false
+  xy: 2, 246
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_11
+  rotate: false
+  xy: 254, 368
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_12
+  rotate: false
+  xy: 506, 490
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_13
+  rotate: false
+  xy: 758, 612
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_14
+  rotate: false
+  xy: 2, 124
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_15
+  rotate: false
+  xy: 254, 246
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_16
+  rotate: false
+  xy: 506, 368
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_17
+  rotate: false
+  xy: 758, 490
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1
+shuye3/shuye01_18
+  rotate: false
+  xy: 2, 2
+  size: 250, 120
+  orig: 250, 120
+  offset: 0, 0
+  index: -1

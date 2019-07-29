@@ -1,0 +1,146 @@
+
+denglong.png
+size: 968,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bisaichang
+  rotate: false
+  xy: 336, 60
+  size: 156, 202
+  orig: 156, 202
+  offset: 0, 0
+  index: -1
+bisaichang_guang
+  rotate: false
+  xy: 494, 84
+  size: 156, 202
+  orig: 156, 202
+  offset: 0, 0
+  index: -1
+bisaichang_wenzi
+  rotate: true
+  xy: 652, 40
+  size: 50, 130
+  orig: 50, 130
+  offset: 0, 0
+  index: -1
+chuanqilaile
+  rotate: false
+  xy: 652, 92
+  size: 156, 202
+  orig: 156, 202
+  offset: 0, 0
+  index: -1
+fanhuiyouxi
+  rotate: true
+  xy: 494, 32
+  size: 50, 150
+  orig: 50, 150
+  offset: 0, 0
+  index: -1
+jianfangjian
+  rotate: false
+  xy: 176, 50
+  size: 158, 208
+  orig: 158, 208
+  offset: 0, 0
+  index: -1
+jianfangjian_giow
+  rotate: false
+  xy: 2, 10
+  size: 172, 248
+  orig: 172, 248
+  offset: 0, 0
+  index: -1
+jianfangjian_wenzi
+  rotate: true
+  xy: 810, 54
+  size: 50, 150
+  orig: 50, 150
+  offset: 0, 0
+  index: -1
+jinbichang
+  rotate: false
+  xy: 810, 106
+  size: 156, 202
+  orig: 156, 202
+  offset: 0, 0
+  index: -1
+jinbichang_guang
+  rotate: false
+  xy: 386, 288
+  size: 166, 238
+  orig: 166, 238
+  offset: 0, 0
+  index: -1
+jinbichang_wenzi
+  rotate: true
+  xy: 784, 2
+  size: 50, 130
+  orig: 50, 130
+  offset: 0, 0
+  index: -1
+jinyouxi
+  rotate: false
+  xy: 728, 310
+  size: 164, 216
+  orig: 164, 216
+  offset: 0, 0
+  index: -1
+jinyouxi_glow
+  rotate: false
+  xy: 196, 264
+  size: 188, 262
+  orig: 188, 262
+  offset: 0, 0
+  index: -1
+jinyouxi_wenzi
+  rotate: true
+  xy: 336, 8
+  size: 50, 150
+  orig: 50, 150
+  offset: 0, 0
+  index: -1
+julebu
+  rotate: false
+  xy: 554, 296
+  size: 172, 230
+  orig: 172, 230
+  offset: 0, 0
+  index: -1
+julebu_glow
+  rotate: false
+  xy: 2, 260
+  size: 192, 266
+  orig: 192, 266
+  offset: 0, 0
+  index: -1
+julebu_wenzi
+  rotate: false
+  xy: 894, 370
+  size: 58, 156
+  orig: 58, 156
+  offset: 0, 0
+  index: -1
+shengzi_cjamh
+  rotate: true
+  xy: 2, 4
+  size: 4, 280
+  orig: 4, 280
+  offset: 0, 0
+  index: -1
+shengzi_duan
+  rotate: false
+  xy: 646, 8
+  size: 4, 74
+  orig: 4, 74
+  offset: 0, 0
+  index: -1
+tishi
+  rotate: false
+  xy: 894, 332
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
