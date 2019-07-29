@@ -1,0 +1,174 @@
+
+kaiju.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 629, 706
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 184, 226
+  size: 153, 51
+  orig: 153, 51
+  offset: 0, 0
+  index: -1
+hong
+  rotate: false
+  xy: 2, 700
+  size: 261, 158
+  orig: 261, 158
+  offset: 0, 0
+  index: -1
+hong_1
+  rotate: false
+  xy: 2, 860
+  size: 265, 156
+  orig: 265, 156
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 759, 751
+  size: 147, 83
+  orig: 147, 83
+  offset: 0, 0
+  index: -1
+huaban/huaban__00000
+  rotate: false
+  xy: 251, 552
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+huaban/huaban__00001
+  rotate: false
+  xy: 373, 552
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+huaban/huaban__00002
+  rotate: false
+  xy: 495, 552
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+huaban/huaban__00003
+  rotate: true
+  xy: 184, 104
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+huaban/huaban__00004
+  rotate: false
+  xy: 184, 2
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+huaban/huaban__00005
+  rotate: false
+  xy: 629, 604
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+huaban/huaban__00006
+  rotate: true
+  xy: 908, 714
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+ju
+  rotate: true
+  xy: 751, 602
+  size: 72, 86
+  orig: 72, 86
+  offset: 0, 0
+  index: -1
+kai
+  rotate: true
+  xy: 759, 676
+  size: 73, 88
+  orig: 73, 88
+  offset: 0, 0
+  index: -1
+lan
+  rotate: false
+  xy: 2, 381
+  size: 243, 158
+  orig: 243, 158
+  offset: 0, 0
+  index: -1
+lan_2
+  rotate: false
+  xy: 2, 541
+  size: 247, 157
+  orig: 247, 157
+  offset: 0, 0
+  index: -1
+texiao_1/guanghuan__00000
+  rotate: false
+  xy: 2, 199
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+texiao_1/guanghuan__00001
+  rotate: false
+  xy: 2, 17
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+texiao_1/guanghuan__00002
+  rotate: false
+  xy: 269, 836
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+texiao_1/guanghuan__00003
+  rotate: false
+  xy: 451, 836
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+texiao_1/guanghuan__00004
+  rotate: false
+  xy: 633, 836
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+texiao_1/guanghuan__00005
+  rotate: false
+  xy: 815, 836
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+texiao_1/guanghuan__00006
+  rotate: false
+  xy: 265, 654
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+texiao_1/guanghuan__00007
+  rotate: false
+  xy: 447, 654
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

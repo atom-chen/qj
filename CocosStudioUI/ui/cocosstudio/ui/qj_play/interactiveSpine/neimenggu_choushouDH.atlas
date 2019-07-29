@@ -1,0 +1,90 @@
+
+neimenggu_choushouDH.png
+size: 634,634
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/chuipaopao
+  rotate: true
+  xy: 247, 368
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+image/paomolansedi1
+  rotate: true
+  xy: 247, 59
+  size: 243, 201
+  orig: 243, 201
+  offset: 0, 0
+  index: -1
+image/paomolansedi2
+  rotate: true
+  xy: 450, 84
+  size: 218, 175
+  orig: 218, 175
+  offset: 0, 0
+  index: -1
+image/paomoshang1
+  rotate: false
+  xy: 2, 2
+  size: 234, 163
+  orig: 234, 163
+  offset: 0, 0
+  index: -1
+image/paomoshang1dian_1
+  rotate: false
+  xy: 284, 365
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+image/paomoshang1dian_2
+  rotate: false
+  xy: 284, 375
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+image/paomoshang1dian_3
+  rotate: false
+  xy: 296, 372
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+image/paomoshang1dian_4
+  rotate: true
+  xy: 296, 379
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+image/paomoshang1dian_5
+  rotate: true
+  xy: 267, 373
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+image/paomoshang2
+  rotate: false
+  xy: 2, 167
+  size: 243, 218
+  orig: 243, 218
+  offset: 0, 0
+  index: -1
+image/shoubeixin
+  rotate: false
+  xy: 2, 387
+  size: 301, 245
+  orig: 301, 245
+  offset: 0, 0
+  index: -1
+image/shouxin
+  rotate: true
+  xy: 305, 304
+  size: 328, 207
+  orig: 328, 207
+  offset: 0, 0
+  index: -1

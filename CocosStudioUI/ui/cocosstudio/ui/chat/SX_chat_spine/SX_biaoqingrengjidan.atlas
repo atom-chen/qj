@@ -1,0 +1,41 @@
+
+SX_biaoqingrengjidan.png
+size: 185,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/jidanke
+  rotate: false
+  xy: 126, 112
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+image/jidankepo1
+  rotate: false
+  xy: 126, 85
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+image/jidankepo3
+  rotate: true
+  xy: 2, 2
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+image/jidankepo4
+  rotate: true
+  xy: 44, 8
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+image/jidanqing
+  rotate: false
+  xy: 2, 37
+  size: 122, 146
+  orig: 122, 146
+  offset: 0, 0
+  index: -1

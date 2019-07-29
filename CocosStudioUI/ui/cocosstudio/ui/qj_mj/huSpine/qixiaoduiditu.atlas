@@ -1,0 +1,97 @@
+
+qixiaoduiditu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-1
+  rotate: false
+  xy: 396, 59
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+1-10
+  rotate: false
+  xy: 1, 38
+  size: 226, 3
+  orig: 226, 3
+  offset: 0, 0
+  index: -1
+1-11
+  rotate: false
+  xy: 733, 426
+  size: 226, 3
+  orig: 226, 3
+  offset: 0, 0
+  index: -1
+1-2
+  rotate: false
+  xy: 396, 76
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+1-3
+  rotate: false
+  xy: 1, 17
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+1-5
+  rotate: false
+  xy: 1, 1
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+1-6
+  rotate: false
+  xy: 1, 1
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+1-7
+  rotate: false
+  xy: 733, 410
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+1-8
+  rotate: false
+  xy: 42, 22
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+1-9
+  rotate: false
+  xy: 448, 80
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+UP_00000
+  rotate: false
+  xy: 396, 264
+  size: 336, 165
+  orig: 336, 165
+  offset: 0, 0
+  index: -1
+xia__00000
+  rotate: false
+  xy: 1, 42
+  size: 394, 387
+  orig: 394, 387
+  offset: 0, 0
+  index: -1
+zhong__00000
+  rotate: false
+  xy: 396, 98
+  size: 336, 165
+  orig: 336, 165
+  offset: 0, 0
+  index: -1

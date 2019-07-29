@@ -1,0 +1,181 @@
+
+neimenggu_baishen.png
+size: 722,722
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/E_liudongxingxing_00012
+  rotate: false
+  xy: 277, 176
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: -1
+image/caishen
+  rotate: false
+  xy: 2, 346
+  size: 383, 374
+  orig: 383, 374
+  offset: 0, 0
+  index: -1
+image/daguangyun
+  rotate: false
+  xy: 2, 88
+  size: 273, 256
+  orig: 273, 256
+  offset: 0, 0
+  index: -1
+image/guang_00000
+  rotate: false
+  xy: 387, 520
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+image/paizia
+  rotate: true
+  xy: 2, 17
+  size: 69, 153
+  orig: 69, 153
+  offset: 0, 0
+  index: -1
+image/xianglv
+  rotate: true
+  xy: 387, 328
+  size: 190, 210
+  orig: 190, 210
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00001
+  rotate: false
+  xy: 589, 600
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00002
+  rotate: true
+  xy: 277, 118
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00003
+  rotate: false
+  xy: 479, 206
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00004
+  rotate: false
+  xy: 647, 600
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00005
+  rotate: false
+  xy: 537, 206
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00006
+  rotate: true
+  xy: 157, 30
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00007
+  rotate: true
+  xy: 589, 542
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00008
+  rotate: false
+  xy: 599, 420
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00009
+  rotate: false
+  xy: 657, 420
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00010
+  rotate: true
+  xy: 599, 362
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00011
+  rotate: true
+  xy: 599, 304
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00012
+  rotate: true
+  xy: 595, 246
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00013
+  rotate: true
+  xy: 595, 188
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00014
+  rotate: true
+  xy: 279, 60
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00015
+  rotate: true
+  xy: 279, 2
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00016
+  rotate: true
+  xy: 399, 118
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00017
+  rotate: true
+  xy: 401, 60
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00018
+  rotate: true
+  xy: 401, 2
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+image/xianglvyan/xianglvyan_00019
+  rotate: true
+  xy: 521, 130
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1

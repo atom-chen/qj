@@ -1,0 +1,64 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="GuidesList">
+      <Value ctype="GuidesData">
+        <HorizontalList>
+          <Guides Direction="Horizontal" Position="0.0000" />
+          <Guides Direction="Horizontal" Position="40.0000" />
+          <Guides Direction="Horizontal" Position="80.0000" />
+          <Guides Direction="Horizontal" Position="120.0000" />
+          <Guides Direction="Horizontal" Position="160.0000" />
+          <Guides Direction="Horizontal" Position="200.0000" />
+          <Guides Direction="Horizontal" Position="240.0000" />
+          <Guides Direction="Horizontal" Position="280.1176" />
+          <Guides Direction="Horizontal" Position="320.0000" />
+          <Guides Direction="Horizontal" Position="360.0000" />
+          <Guides Direction="Horizontal" Position="400.0000" />
+          <Guides Direction="Horizontal" Position="440.0000" />
+          <Guides Direction="Horizontal" Position="480.0000" />
+          <Guides Direction="Horizontal" Position="520.0000" />
+          <Guides Direction="Horizontal" Position="560.0000" />
+          <Guides Direction="Horizontal" Position="600.0000" />
+          <Guides Direction="Horizontal" Position="640.0000" />
+          <Guides Direction="Horizontal" Position="680.0000" />
+          <Guides Direction="Horizontal" Position="720.0000" />
+        </HorizontalList>
+        <VerticalList>
+          <Guides Position="0.0000" />
+          <Guides Position="40.0000" />
+          <Guides Position="80.0000" />
+          <Guides Position="120.0000" />
+          <Guides Position="160.0000" />
+          <Guides Position="200.0000" />
+          <Guides Position="240.0000" />
+          <Guides Position="280.0000" />
+          <Guides Position="320.0000" />
+          <Guides Position="360.0000" />
+          <Guides Position="400.0000" />
+          <Guides Position="440.0000" />
+          <Guides Position="480.0000" />
+          <Guides Position="520.0000" />
+          <Guides Position="560.0000" />
+          <Guides Position="600.0000" />
+          <Guides Position="640.0000" />
+          <Guides Position="680.0000" />
+          <Guides Position="720.0000" />
+          <Guides Position="760.0000" />
+          <Guides Position="800.0000" />
+          <Guides Position="840.0000" />
+          <Guides Position="880.0000" />
+          <Guides Position="920.0000" />
+          <Guides Position="960.0000" />
+          <Guides Position="1000.0000" />
+          <Guides Position="1040.0000" />
+          <Guides Position="1080.0000" />
+          <Guides Position="1120.0000" />
+          <Guides Position="1160.0000" />
+          <Guides Position="1200.0000" />
+          <Guides Position="1240.0000" />
+          <Guides Position="1280.0000" />
+        </VerticalList>
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

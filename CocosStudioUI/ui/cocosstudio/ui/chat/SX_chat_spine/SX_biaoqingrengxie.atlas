@@ -1,0 +1,20 @@
+
+SX_biaoqingrengxie.png
+size: 110,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/tuoxie
+  rotate: false
+  xy: 2, 2
+  size: 41, 106
+  orig: 41, 106
+  offset: 0, 0
+  index: -1
+image/tuoxieyin
+  rotate: false
+  xy: 45, 3
+  size: 40, 105
+  orig: 40, 105
+  offset: 0, 0
+  index: -1

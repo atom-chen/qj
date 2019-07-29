@@ -1,0 +1,20 @@
+
+SX_biaoqingqinwen.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/hongchun
+  rotate: false
+  xy: 2, 2
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+image/xiaohongxin
+  rotate: false
+  xy: 78, 36
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
